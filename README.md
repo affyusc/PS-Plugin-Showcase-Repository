@@ -1,5 +1,7 @@
 悟空 PS 插件 V1.0.3
 
+![主界面](https://github.com/affyusc/PS-Plugin-Showcase-Repository/blob/b142964f73a7fa412aa905ac57e347a9b6310531/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520093805.png)
+
 悟空PS插件界面截图
 
 简介
